@@ -16,4 +16,7 @@ touch index.html
 
 #start this web app
 npm start
+
+npm install --save-dev @types/react
+npm i --save-dev @types/react-dom
 ```
