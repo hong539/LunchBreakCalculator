@@ -1,0 +1,28 @@
+{
+  "name": "lunchbreakcalculator",
+  "version": "1.0.0",
+  "description": "lunchbreakcalculator app based on react",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hong539/LunchBreakCalculator.git"
+  },
+  "keywords": [
+    "react",
+    "lunchbreakcalculator",
+    "web-app"
+  ],
+  "author": "hong539",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hong539/LunchBreakCalculator/issues"
+  },
+  "homepage": "https://github.com/hong539/LunchBreakCalculator#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
