@@ -49,7 +49,7 @@ export default function LunchBreakTimer() {
       </div>
       <p>Time remaining: {formatTime(remainingTime)}</p>
       <div>
-        <button onClick={handleStart}>Start</button>
+        <button onClick={handleStart}>Start <br></br></button>
         <button onClick={handleStop}>Stop</button>
         <button onClick={handleReset}>Reset</button>
       </div>
