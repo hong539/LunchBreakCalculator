@@ -19,4 +19,6 @@ npm start
 
 npm install --save-dev @types/react
 npm i --save-dev @types/react-dom
+
+npm install webpack webpack-cli babel-loader @babel/core @babel/preset-react react react-dom
 ```
