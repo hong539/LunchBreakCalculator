@@ -4,7 +4,8 @@
   "description": "lunchbreakcalculator app based on react",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
