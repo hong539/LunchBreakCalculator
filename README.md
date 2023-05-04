@@ -17,8 +17,11 @@ touch index.html
 #start this web app
 npm start
 
-npm install --save-dev @types/react
-npm i --save-dev @types/react-dom
-
-npm install webpack webpack-cli babel-loader @babel/core @babel/preset-react react react-dom
+npx create-next-app lunch-break-calculator
+✔ Would you like to use TypeScript with this project? … No
+✔ Would you like to use ESLint with this project? … Yes
+✔ Would you like to use Tailwind CSS with this project? … Yes
+✔ Would you like to use `src/` directory with this project? … Yes
+✔ Would you like to use experimental `app/` directory with this project? … No
+✔ What import alias would you like configured? … @/*
 ```
